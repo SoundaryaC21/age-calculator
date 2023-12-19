@@ -1,0 +1,39 @@
+body {
+  background: #7e7e7e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+input {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+button {
+  background-color: rgb(120, 216, 120);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 10px;
+}
